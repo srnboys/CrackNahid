@@ -263,7 +263,6 @@ def rcrack(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = {"authority": 'mbasic.facebook.com',
-            "accept-language': 'en-US,en;q=0.9',
             "cache-control': 'max-age=0',
             "sec-ch-ua': '"Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"',
             "sec-ch-ua-mobile': '?0',
